@@ -4,6 +4,11 @@
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
 
+# 计划阶段
+
+不过现在打算另开一个adb工具项目，把log tag作为功能插件，  
+https://github.com/AoEiuV020/adb_tools  
+
 1， flutter adb功能，  
 https://github.com/nightmare-space/adb_kit  
 使用adb可执行文件， 远程连接安卓设备，执行命令  
